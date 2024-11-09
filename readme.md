@@ -4,4 +4,7 @@ Esse gráfico foi a forma mais fácil que encontrei para monitorar a execução 
 
 No script os jobs são agrupados por nome, na mesma linha são exibidas todas as execuções, as barras são geradas com base na duração e hora de início de cada tarefa.
 
+Acesse o gráfico de forma interativa em [clicando aqui.](https://mfbarbosa.github.io/grafico_execucao_jobs/html/) 
+
+
 ![Power Query](img/grafico_jobs.png) 
